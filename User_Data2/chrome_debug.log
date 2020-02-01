@@ -1,0 +1,6 @@
+[7236:7236:0201/200039.202109:ERROR:sandbox_linux.cc(372)] InitializeSandbox() called with multiple threads in process gpu-process.
+[7236:7236:0201/200039.298691:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[7239:7249:0201/200039.620981:WARNING:spdy_session.cc(3316)] Received HEADERS for invalid stream 5
+[7261:1:0201/200039.781348:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[7261:1:0201/200039.781627:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[7196:7196:0201/200055.718147:INFO:CONSOLE(2)] "Application Cache API use is deprecated and will be removed in M82, around April 2020. See https://www.chromestatus.com/features/6192449487634432 for more details.", source: https://web.whatsapp.com/app.9d707d8cc13bce7894d2.js (2)
