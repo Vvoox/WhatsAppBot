@@ -11,8 +11,8 @@ from selenium.webdriver.chrome.options import Options
 from pyvirtualdisplay import Display
 
 url = "https://web.whatsapp.com/"
-username = "painful" #
-Message = "Wa mamaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+username = "Contact name" #
+Message = "Your message"
 print("Sending...to "+username)
 chrome_options = Options()
 chrome_options.add_argument("user-data-dir=./User_Data2")
