@@ -1,0 +1,89 @@
+Sending...to painful
+Open the url is done ...
+Traceback (most recent call last):
+  File "wtps1.py", line 46, in <module>
+    send_message()
+  File "wtps1.py", line 31, in send_message
+    webdriver1.find_element_by_xpath("//input[contains(@class, '_2zCfw copyable-text selectable-text')]") \
+  File "/home/vvoox/.local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "/home/vvoox/.local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/vvoox/.local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/vvoox/.local/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[contains(@class, '_2zCfw copyable-text selectable-text')]"}
+  (Session info: headless chrome=79.0.3945.130)
+
+3947
+
+3961
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+3992
+
+4135
+
+4159
+
+4159
+
+
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+
